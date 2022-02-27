@@ -1,9 +1,10 @@
 # This is a repo for all my React JS ⚛ projects from all over the place 👨🏻‍💻👾
 
-| Table of Contents                       |
-| --------------------------------------- |
-| [QR Code Generator](#qr-code-generator) |
-| [Quizzical App](#quizzical-app)         |
+| Table of Contents                                         |
+| --------------------------------------------------------- |
+| [QR Code Generator](#qr-code-generator)                   |
+| [Quizzical App](#quizzical-app)                           |
+| [NFT Preview Card Generator](#nft-preview-card-generator) |
 
 ## QR Code Generator
 
@@ -19,3 +20,11 @@
 
 - Live Site URL: [https://kens-visuals.github.io/quizzical-app/](https://kens-visuals.github.io/quizzical-app/)
 - Repository URL: [https://github.com/kens-visuals/quizzical-app](https://github.com/kens-visuals/quizzical-app)
+
+## NFT Preview Card Generator
+
+![screenshot](./screenshots/nft-preview-generator.png)
+
+- Live Site URL: [https://kens-visuals.github.io/nft-preview-generator/](https://kens-visuals.github.io/nft-preview-generator/)
+- Repository URL: [https://github.com/kens-visuals/nft-preview-generator](https://github.com/kens-visuals/nft-preview-generator)
+- Solution URL: [https://www.frontendmentor.io/solutions/nft-preview-card-generator-built-with-react-and-styledcomponents-iLzEaKy_X](https://www.frontendmentor.io/solutions/nft-preview-card-generator-built-with-react-and-styledcomponents-iLzEaKy_X)
