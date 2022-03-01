@@ -5,6 +5,7 @@
 | [QR Code Generator](#qr-code-generator)                   |
 | [Quizzical App](#quizzical-app)                           |
 | [NFT Preview Card Generator](#nft-preview-card-generator) |
+| [Advice Generator App](#advice-generator-app)             |
 
 ## QR Code Generator
 
@@ -28,3 +29,11 @@
 - Live Site URL: [https://kens-visuals.github.io/nft-preview-generator/](https://kens-visuals.github.io/nft-preview-generator/)
 - Repository URL: [https://github.com/kens-visuals/nft-preview-generator](https://github.com/kens-visuals/nft-preview-generator)
 - Solution URL: [https://www.frontendmentor.io/solutions/nft-preview-card-generator-built-with-react-and-styledcomponents-iLzEaKy_X](https://www.frontendmentor.io/solutions/nft-preview-card-generator-built-with-react-and-styledcomponents-iLzEaKy_X)
+
+## Advice Generator App
+
+![screenshot](./screenshots/advice-generator-app-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/advice-generator-app/](https://kens-visuals.github.io/advice-generator-app/)
+- Repository URL: [https://github.com/kens-visuals/advice-generator-app](https://github.com/kens-visuals/advice-generator-app)
+- Solution URL: [https://www.frontendmentor.io/solutions/advice-generator-app-with-react-and-styled-components-CkRsCR7Q9](https://www.frontendmentor.io/solutions/advice-generator-app-with-react-and-styled-components-CkRsCR7Q9)
