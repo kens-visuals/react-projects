@@ -23,7 +23,7 @@
 
 ## NFT Preview Card Generator
 
-![screenshot](./screenshots/nft-preview-generator.png)
+![screenshot](./screenshots/nft-preview-generator-screenshot.png)
 
 - Live Site URL: [https://kens-visuals.github.io/nft-preview-generator/](https://kens-visuals.github.io/nft-preview-generator/)
 - Repository URL: [https://github.com/kens-visuals/nft-preview-generator](https://github.com/kens-visuals/nft-preview-generator)
