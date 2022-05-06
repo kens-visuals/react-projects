@@ -48,7 +48,7 @@
 - Repository URL: [https://github.com/kens-visuals/ecommerce-product-page](https://github.com/kens-visuals/ecommerce-product-page)
 - Solution URL: [https://www.frontendmentor.io/solutions/ecommerce-product-page-built-w-react-and-tailwind-css-Ska7C_9N9](https://www.frontendmentor.io/solutions/ecommerce-product-page-built-w-react-and-tailwind-css-Ska7C_9N9)
 
-## E-Commerce Product Page
+## Calculator App
 
 ![screenshot](./screenshots/calculator-app-screenshot.png)
 
