@@ -6,7 +6,7 @@
 | [Quizzical App](#quizzical-app)                           |
 | [NFT Preview Card Generator](#nft-preview-card-generator) |
 | [Advice Generator App](#advice-generator-app)             |
-| [E-Commerce Product Page](#ecommerce-product-page)        |
+| [E-Commerce Product Page](#e-commerce-product-page)       |
 | [Calculator App](#calculator-app)                         |
 
 ## QR Code Generator
