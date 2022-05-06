@@ -6,6 +6,8 @@
 | [Quizzical App](#quizzical-app)                           |
 | [NFT Preview Card Generator](#nft-preview-card-generator) |
 | [Advice Generator App](#advice-generator-app)             |
+| [E-Commerce Product Page](#ecommerce-product-page)        |
+| [Calculator App](#calculator-app)                         |
 
 ## QR Code Generator
 
@@ -37,3 +39,19 @@
 - Live Site URL: [https://kens-visuals.github.io/advice-generator-app/](https://kens-visuals.github.io/advice-generator-app/)
 - Repository URL: [https://github.com/kens-visuals/advice-generator-app](https://github.com/kens-visuals/advice-generator-app)
 - Solution URL: [https://www.frontendmentor.io/solutions/advice-generator-app-with-react-and-styled-components-CkRsCR7Q9](https://www.frontendmentor.io/solutions/advice-generator-app-with-react-and-styled-components-CkRsCR7Q9)
+
+## E-Commerce Product Page
+
+![screenshot](./screenshots/ecommerce-product-page-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/ecommerce-product-page/](https://kens-visuals.github.io/ecommerce-product-page/)
+- Repository URL: [https://github.com/kens-visuals/ecommerce-product-page](https://github.com/kens-visuals/ecommerce-product-page)
+- Solution URL: [https://www.frontendmentor.io/solutions/ecommerce-product-page-built-w-react-and-tailwind-css-Ska7C_9N9](https://www.frontendmentor.io/solutions/ecommerce-product-page-built-w-react-and-tailwind-css-Ska7C_9N9)
+
+## E-Commerce Product Page
+
+![screenshot](./screenshots/calculator-app-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/calculator-app/](https://kens-visuals.github.io/calculator-app/)
+- Repository URL: [https://github.com/kens-visuals/calculator-app](https://github.com/kens-visuals/calculator-app)
+- Solution URL: [https://www.frontendmentor.io/solutions/calculator-app-built-with-react-and-tailwindcss-S1tYTCe85](https://www.frontendmentor.io/solutions/calculator-app-built-with-react-and-tailwindcss-S1tYTCe85)
