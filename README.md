@@ -8,6 +8,10 @@
 | [Advice Generator App](#advice-generator-app)             |
 | [E-Commerce Product Page](#e-commerce-product-page)       |
 | [Calculator App](#calculator-app)                         |
+| [E-Commerce Product Page](#e-commerce-product-page)       |
+| [Calculator App](#calculator-app)                         |
+| [Todo App](#todo-app)                                     |
+| [Markdown Notes App](#markdown-notes-app)                 |
 
 ## QR Code Generator
 
@@ -55,3 +59,19 @@
 - Live Site URL: [https://kens-visuals.github.io/calculator-app/](https://kens-visuals.github.io/calculator-app/)
 - Repository URL: [https://github.com/kens-visuals/calculator-app](https://github.com/kens-visuals/calculator-app)
 - Solution URL: [https://www.frontendmentor.io/solutions/calculator-app-built-with-react-and-tailwindcss-S1tYTCe85](https://www.frontendmentor.io/solutions/calculator-app-built-with-react-and-tailwindcss-S1tYTCe85)
+
+## Todo App
+
+![screenshot](./screenshots/todo-app-screenshot.png)
+
+- Live Site URL: [https://kens-visuals.github.io/todo-app/](https://kens-visuals.github.io/todo-app/)
+- Repository URL: [https://github.com/kens-visuals/todo-app](https://github.com/kens-visuals/todo-app)
+- Solution URL: [https://www.frontendmentor.io/solutions/todo-app-built-with-react-and-tailwind-css-rJrsKyJPc](https://www.frontendmentor.io/solutions/todo-app-built-with-react-and-tailwind-css-rJrsKyJPc)
+
+## Markdown Notes App
+
+![screenshot](./screenshots/markdown-notes-app-screenshot.png)
+
+- Live Site URL: [https://markdown-notes-app-delta.vercel.app/](https://markdown-notes-app-delta.vercel.app/)
+- Repository URL: [https://github.com/kens-visuals/markdown-notes-app](https://github.com/kens-visuals/markdown-notes-app)
+- Solution URL: [https://www.frontendmentor.io/solutions/markdown-editor-app-built-with-nextjs-tailwindcss-and-firebase-N-SvSRipHi](https://www.frontendmentor.io/solutions/markdown-editor-app-built-with-nextjs-tailwindcss-and-firebase-N-SvSRipHi)
